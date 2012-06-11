@@ -11,7 +11,7 @@ usbutils fork from https://github.com/veltzer/usbutils
 
 * Mac OS X 10.6 and above version (10.8 beta not tested)
 * Xcode 4.2 or above version (Xcode 3 not tested)
-* pkg-config tool with m4 macro suppot installed (mine is from Homebrew http://mxcl.github.com/homebrew/ )
+* pkg-config tool with m4 macro support installed (mine is from Homebrew http://mxcl.github.com/homebrew/ )
 
 ## How to compile
 
