@@ -1,6 +1,6 @@
 # usbutils for OSX
 
-issh-improved fork from https://github.com/veltzer/usbutils
+usbutils fork from https://github.com/veltzer/usbutils
 
 ## changes
 
